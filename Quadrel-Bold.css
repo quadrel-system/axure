@@ -1,0 +1,12 @@
+/* Webfont: Quadrel-Bold */@font-face {
+    font-family: 'Quadrel';
+    src: url('Quadrel-Bold.eot'); /* IE9 Compat Modes */
+    src: url('Quadrel-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Quadrel-Bold.woff') format('woff'), /* Modern Browsers */
+         url('Quadrel-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Quadrel-Bold.svg#Quadrel-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

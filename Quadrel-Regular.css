@@ -1,0 +1,12 @@
+/* Webfont: Quadrel-Regular */@font-face {
+    font-family: 'Quadrel';
+    src: url('Quadrel-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Quadrel-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Quadrel-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Quadrel-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Quadrel-Regular.svg#Quadrel-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
