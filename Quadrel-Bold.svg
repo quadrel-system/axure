@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" >
 <font id="Quadrel Bold">
-<font-face  font-family="Quadrel" units-per-em="256" ascent="256" descent="0" font-style="normal" font-weight="700" font-stretch="normal" cap-height="192" x-height="128" underline-position="2" underline-thickness="0" />
+<font-face  font-family="Quadrel" units-per-em="256" ascent="256" descent="0" font-style="normal" font-weight="400" font-stretch="normal" cap-height="192" x-height="128" underline-position="2" underline-thickness="0" />
 <missing-glyph  d="" />
 <glyph glyph-name="user-default-solid" unicode="&#xe000;" horiz-adv-x="256" d="M183 79 Q166 85 158 108 Q143 101 128 101 Q113 101 98 108 Q95 99 89 91 Q83 83 73 80 Q54 74 44 68 Q31 59 23.5 46 Q16 33 16 11 Q16 8 17.5 6.5 Q19 5 21 5 L235 5 Q237 5 238.5 6.5 Q240 8 240 11 Q240 33 232.5 46 Q225 59 212 67 Q202 73 183 79 Z M128 251 Q112 251 98.5 243 Q85 235 77 221.5 Q69 208 69 192 L69 171 Q69 155 77 141.5 Q85 128 98.5 120 Q112 112 128 112 Q144 112 157.5 120 Q171 128 179 141.5 Q187 155 187 171 L187 192 Q187 208 179 221.5 Q171 235 157.5 243 Q144 251 128 251 Z " />
 <glyph glyph-name="triangle-up-solid" unicode="&#xe001;" horiz-adv-x="256" d="M224 56 L32 56 Q27 56 25 60 Q23 64 26 69 L122 197 Q124 200 128 200 Q132 200 134 197 L230 69 Q233 64 230.5 60 Q228 56 224 56 Z " />
